@@ -1,1 +1,9 @@
-/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+
+$font: 'Josefin Sans', sans-serif;
+
+$successColour: #5A9367;
+
+body{
+    font-family: 'Josefin Sans', sans-serif;
+}

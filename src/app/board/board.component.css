@@ -1,3 +1,8 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap");
+body {
+  font-family: 'Josefin Sans', sans-serif;
+}
+
 app-square {
   border: 1px solid grey;
   height: 15vh;
@@ -6,6 +11,11 @@ app-square {
 
 h1 {
   color: black;
+}
+
+.playerName {
+  color: #5A9367;
+  font-family: "Josefin Sans", sans-serif;
 }
 
 main {
