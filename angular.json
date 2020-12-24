@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "noughts-crosses-app"
+  "defaultProject": "noughts-crosses-app",
+  "cli": {
+    "analytics": "fb941ce2-6a96-4f8f-8358-6ff4af706254"
+  }
 }
