@@ -1,12 +1,22 @@
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
 
+//variables
 $font: 'Josefin Sans', sans-serif;
-
 $successColour: #5A9367;
 $primaryBackgroundColour: #F9F7F3;
 $primaryTextColour: #030027;
 
+//mixins
+@mixin button-padding {
+    margin: 2vh;
+    padding: 2vh;
+  }
 
+@mixin button-style {
+   border-radius: 10px; 
+}
+
+//base css
 body{
     font-family: 'Josefin Sans', sans-serif;
     background-color: $primaryBackgroundColour;

@@ -23,6 +23,15 @@ app-square {
   font-family: "Josefin Sans", sans-serif;
 }
 
+.newGameButton {
+  background-color: #5A9367;
+  color: #F9F7F3;
+  margin: 2vh;
+  padding: 2vh;
+  border-radius: 10px;
+  border: 0.5vh solid #75ab81;
+}
+
 main {
   display: -ms-grid;
   display: grid;

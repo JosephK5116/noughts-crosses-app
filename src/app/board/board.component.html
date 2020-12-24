@@ -1,6 +1,6 @@
 <h1> It's <span class="playerName">{{player}}'s</span> turn to play!</h1>
 
-<button (click)="newGame()">Start new game</button>
+<button (click)="newGame()" class="newGameButton">Start new game</button>
 
 <h2 *ngIf="winner">
     Player {{winner}} won the game!

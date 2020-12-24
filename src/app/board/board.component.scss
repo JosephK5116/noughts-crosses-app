@@ -7,6 +7,15 @@
 
 }
 
+.newGameButton{
+   background-color: $successColour;
+   color: $primaryBackgroundColour;
+   @include button-padding;
+   @include button-style;
+   border: 0.5vh solid lighten($successColour, 10%); 
+
+}
+
 main{
     display:grid;
     grid-template-columns: 15vh 15vh 15vh;
