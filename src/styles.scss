@@ -3,7 +3,12 @@
 $font: 'Josefin Sans', sans-serif;
 
 $successColour: #5A9367;
+$primaryBackgroundColour: #F9F7F3;
+$primaryTextColour: #030027;
+
 
 body{
     font-family: 'Josefin Sans', sans-serif;
+    background-color: $primaryBackgroundColour;
+    color: $primaryTextColour;
 }
