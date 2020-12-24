@@ -1,9 +1,10 @@
 {
     "version": 3,
-    "mappings": "AAEA,AAAA,EAAE,CAAA;EACE,KAAK,EAAE,KAAK;CACf;;AAED,AAAA,IAAI,CAAA;EACA,OAAO,EAAC,IAAI;EACZ,qBAAqB,EAAE,iBAAiB;EACxC,QAAQ,EAAE,GAAG;CAChB",
+    "mappings": "AEyBA,AAAA,UAAU,CAAA;EACN,MAAM,EAAE,cAAc;EACtB,MAAM,EAAC,IAAI;EACX,KAAK,EAAC,IAAI;CACb;;AF1BD,AAAA,EAAE,CAAA;EACE,KAAK,EAAE,KAAK;CACf;;AAED,AAAA,IAAI,CAAA;EACA,OAAO,EAAC,IAAI;EACZ,qBAAqB,EAAE,cAAc;EACrC,QAAQ,EAAE,GAAG;CAChB",
     "sources": [
         "board.component.scss",
-        "../app.component.scss"
+        "../app.component.scss",
+        "../square/square.component.scss"
     ],
     "names": [],
     "file": "board.component.css"

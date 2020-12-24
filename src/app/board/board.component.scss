@@ -1,4 +1,5 @@
 @import "../app.component.scss";
+@import "../square/square.component.scss";
 
 h1{
     color: black;
@@ -6,7 +7,7 @@ h1{
 
 main{
     display:grid;
-    grid-template-columns: 200px 200px 200px;
+    grid-template-columns: 15vh 15vh 15vh;
     grid-gap: 0px;
 }
 

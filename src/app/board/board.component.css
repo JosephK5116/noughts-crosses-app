@@ -1,3 +1,9 @@
+app-square {
+  border: 1px solid grey;
+  height: 15vh;
+  width: 15vh;
+}
+
 h1 {
   color: black;
 }
@@ -5,8 +11,8 @@ h1 {
 main {
   display: -ms-grid;
   display: grid;
-  -ms-grid-columns: 200px 200px 200px;
-      grid-template-columns: 200px 200px 200px;
+  -ms-grid-columns: 15vh 15vh 15vh;
+      grid-template-columns: 15vh 15vh 15vh;
   grid-gap: 0px;
 }
 /*# sourceMappingURL=board.component.css.map */
