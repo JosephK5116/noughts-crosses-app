@@ -4,4 +4,11 @@ body {
   background-color: #F9F7F3;
   color: #030027;
 }
+
+.bodyContent h1 {
+  padding-top: 2vh;
+  padding-bottom: 2vh;
+  padding-left: 1vh;
+  padding-right: 1vh;
+}
 /*# sourceMappingURL=styles.css.map */

@@ -12,3 +12,12 @@ body{
     background-color: $primaryBackgroundColour;
     color: $primaryTextColour;
 }
+
+.bodyContent{
+    h1{
+        padding-top: 2vh;
+        padding-bottom: 2vh;
+        padding-left:1vh;
+        padding-right:1vh;
+    }
+}
