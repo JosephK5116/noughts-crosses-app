@@ -12,6 +12,13 @@ body {
   padding-right: 1vh;
 }
 
+.bodyContent h2 {
+  padding-top: 2vh;
+  padding-bottom: 2vh;
+  padding-left: 1vh;
+  padding-right: 1vh;
+}
+
 app-square {
   border: 1px solid grey;
   height: 15vh;
@@ -40,5 +47,9 @@ main {
   -ms-grid-columns: 15vh 15vh 15vh;
       grid-template-columns: 15vh 15vh 15vh;
   grid-gap: 0px;
+  padding-top: 1vh;
+  padding-bottom: 1vh;
+  padding-left: 3vh;
+  padding-right: 3vh;
 }
 /*# sourceMappingURL=board.component.css.map */
