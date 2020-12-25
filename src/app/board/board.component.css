@@ -38,7 +38,7 @@ app-square {
   border-radius: 10px;
   border: 0.5vh solid #75ab81;
   margin-left: 15vh;
-  margin-right: 15vh;
+  margin-right: 10vh;
 }
 
 main {
@@ -47,7 +47,7 @@ main {
   -ms-grid-columns: 15vh 15vh 15vh;
       grid-template-columns: 15vh 15vh 15vh;
   grid-gap: 0px;
-  padding-top: 1vh;
+  padding-top: 4vh;
   padding-bottom: 1vh;
   padding-left: 3vh;
   padding-right: 3vh;

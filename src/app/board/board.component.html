@@ -3,7 +3,7 @@
 <button (click)="newGame()" class="newGameButton">Start new game</button>
 
 <h2 *ngIf="winner">
-    Player {{winner}} won the game!
+    Player <span class="playerName">{{winner}}</span> won the game!
 </h2>
 
 <main *ngIf="!winner">

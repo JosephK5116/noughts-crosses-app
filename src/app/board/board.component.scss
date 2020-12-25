@@ -14,7 +14,7 @@
    @include button-style;
    border: 0.5vh solid lighten($successColour, 10%); 
    margin-left:15vh;
-   margin-right:15vh;
+   margin-right:10vh;
 
 }
 
@@ -22,7 +22,7 @@ main{
     display:grid;
     grid-template-columns: 15vh 15vh 15vh;
     grid-gap: 0px;
-    padding-top: 1vh;
+    padding-top: 4vh;
     padding-bottom: 1vh;
     padding-left:3vh;
     padding-right:3vh;
