@@ -30,6 +30,8 @@ app-square {
   padding: 2vh;
   border-radius: 10px;
   border: 0.5vh solid #75ab81;
+  margin-left: 15vh;
+  margin-right: 15vh;
 }
 
 main {

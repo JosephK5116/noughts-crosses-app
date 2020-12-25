@@ -13,6 +13,8 @@
    @include button-padding;
    @include button-style;
    border: 0.5vh solid lighten($successColour, 10%); 
+   margin-left:15vh;
+   margin-right:15vh;
 
 }
 
