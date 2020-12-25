@@ -16,6 +16,14 @@ $primaryTextColour: #030027;
    border-radius: 10px; 
 }
 
+@mixin text-padding{
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+    padding-left:1vh;
+    padding-right:1vh;
+}
+
+
 //base css
 body{
     font-family: 'Josefin Sans', sans-serif;
@@ -25,9 +33,9 @@ body{
 
 .bodyContent{
     h1{
-        padding-top: 2vh;
-        padding-bottom: 2vh;
-        padding-left:1vh;
-        padding-right:1vh;
+      @include text-padding();
+    }
+    h2{
+        @include text-padding();
     }
 }
