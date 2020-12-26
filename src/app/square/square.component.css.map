@@ -1,6 +1,6 @@
 {
     "version": 3,
-    "mappings": "AAyBA,AAAA,UAAU,CAAA;EACN,MAAM,EAAE,cAAc;EACtB,MAAM,EAAC,IAAI;EACX,KAAK,EAAC,IAAI;CACb",
+    "mappings": "AAyBA,AAAA,UAAU,CAAA;EACN,MAAM,EAAE,GAAG,CAAC,KAAK,CAAA,OAAO;EACxB,MAAM,EAAC,IAAI;EACX,KAAK,EAAC,IAAI;CACb",
     "sources": [
         "square.component.scss"
     ],
